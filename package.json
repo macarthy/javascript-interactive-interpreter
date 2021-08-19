@@ -1,0 +1,22 @@
+{
+  "name": "javascript-interactive-interpreter",
+  "version": "1.0.0",
+  "description": "safe eval ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macarthy/javascript-interactive-interpreter.git"
+  },
+  "author": "Justin MacCarthy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macarthy/javascript-interactive-interpreter/issues"
+  },
+  "homepage": "https://github.com/macarthy/javascript-interactive-interpreter#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
